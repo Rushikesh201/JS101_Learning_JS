@@ -1,0 +1,9 @@
+//print the name
+name="Rushi";
+console.log(name);
+
+name="Vijayrao";
+console.log(name);
+
+name="Archana";
+console.log(name);
